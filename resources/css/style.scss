@@ -1,0 +1,65 @@
+// styles.scss
+
+@import "./Sass/Utilities/variables";
+@import "./Sass/Utilities/themes";
+@import "./Sass/Components/accordion";
+@import "./Sass/Components/accrediation";
+@import "./Sass/Components/buttons";
+@import "./Sass/Components/card";
+@import "./Sass/Components/footer";
+@import "./Sass/Components/nav";
+@import "./Sass/Utilities/assets";
+@import "./Sass/Utilities/global";
+
+
+body {
+  font-family: "Open Sans", Arial, Helvetica, sans-serif;
+}
+
+.card-icon {
+
+  border-radius: 50px;
+  border-color: #DFDFDF; 
+
+}
+
+
+td,
+th {
+  font-family: "Open Sans", Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  line-height: 28px;
+  color: #00244e !important;
+  font-weight: 700 !important;
+}
+
+th, td {
+  border: 1px solid #00244e;
+  padding: 8px;
+}
+
+th {
+  font-family: "Open Sans", Arial, Helvetica, sans-serif;
+  font-size: 16px !important;
+  line-height: 28px;
+  color: white !important;
+  font-weight: 700 !important;
+  background-color: #00244e;
+  text-align: center;
+  width: 33.33%;
+}
+
+td {
+  text-align: center;
+  background-color: #fff;
+}
+
+
+  
+  
+  
+ 
+  
+  
+ 
+  
